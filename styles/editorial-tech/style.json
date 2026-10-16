@@ -1,0 +1,29 @@
+{
+  "id": "editorial-tech",
+  "title": "Editorial Tech",
+  "default": false,
+  "topic_locked": false,
+  "brand_locked": false,
+  "palette_examples": [
+    "#F6F4EF",
+    "#17191C",
+    "#D64C36",
+    "#8A8D91"
+  ],
+  "design_principles": [
+    "editorial grid",
+    "high contrast typography",
+    "information-first",
+    "layout diversity",
+    "restrained color"
+  ],
+  "suggested_layouts": [
+    "hero-typography",
+    "system-diagram",
+    "screenshot-led",
+    "editorial-comparison",
+    "statement-summary"
+  ],
+  "references": [],
+  "example_images_excluded": true
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "reviewed_by": "<name or agent who ACTUALLY reviewed final pages>",
+  "reviewed_at": "<ISO-8601 time>",
+  "pages": [
+    {
+      "file": "01.png",
+      "sha256": "<actual sha256 of final page file>",
+      "status": "pending",
+      "source_fidelity": "unverified",
+      "text_and_readability": "unverified",
+      "visual_consistency": "unverified",
+      "rights": "unverified",
+      "notes": "Replace with actual review findings; never auto-mark approved"
+    }
+  ]
+}

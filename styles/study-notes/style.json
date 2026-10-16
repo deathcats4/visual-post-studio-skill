@@ -1,0 +1,14 @@
+{
+  "id": "study-notes",
+  "default": false,
+  "topic_locked": false,
+  "brand_locked": false,
+  "design_principles": [
+    "clear highlights",
+    "friendly notes",
+    "balanced decor",
+    "accessible"
+  ],
+  "references": [],
+  "example_images_excluded": true
+}

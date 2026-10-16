@@ -1,0 +1,4 @@
+interface:
+  display_name: "Visual Post Studio · 图文制作"
+  short_description: "从选题与参考图开始，规划、生成、局部修改并核验多页图文，支持不同平台与主题"
+  default_prompt: "使用 $visual-post-studio，根据我的主题和材料制作图文，并按我要求的范围完成规划、生成或修改。"

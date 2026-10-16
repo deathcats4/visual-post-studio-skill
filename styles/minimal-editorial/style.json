@@ -1,0 +1,14 @@
+{
+  "id": "minimal-editorial",
+  "default": false,
+  "topic_locked": false,
+  "brand_locked": false,
+  "design_principles": [
+    "whitespace",
+    "calm typography",
+    "restrained layout",
+    "clear hierarchy"
+  ],
+  "references": [],
+  "example_images_excluded": true
+}

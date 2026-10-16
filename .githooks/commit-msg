@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+set -euo pipefail
+if command -v python >/dev/null 2>&1; then
+    exec python -B -X utf8 scripts/maintain.py check-message --file "$1"
+elif command -v python3 >/dev/null 2>&1; then
+    exec python3 -B -X utf8 scripts/maintain.py check-message --file "$1"
+else
+    echo 'ERROR: Python 3.9+ is required for the commit message check.' >&2
+    exit 1
+fi

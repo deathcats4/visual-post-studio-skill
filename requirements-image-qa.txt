@@ -1,0 +1,2 @@
+# Required for strict final-image QA; project/style scaffolding uses the standard library.
+Pillow
